@@ -16,4 +16,5 @@ Cara Kerja Program:
 Berikut bukti tampilan pas programnya dijalankan:
 
 
-
+<img width="392" height="750" alt="Screenshot 2026-09-08 200703" src="https://github.com/user-attachments/assets/0d74fe38-f6d7-43e5-9617-996a4d81a5b7" />
+<img width="407" height="819" alt="Screenshot 2026-09-08 202717" src="https://github.com/user-attachments/assets/3ed86079-cda5-4878-9ec5-b5bd25063c71" />
